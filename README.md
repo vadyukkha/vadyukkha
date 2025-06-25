@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <target="_blank">Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><i>Computer science student, beginner RISC-V developer</i></h3>
+<h3 align="center"><i>Computer science student, beginner backend developer</i></h3>
 
 <h2>Main stack and tools</h2>
 
